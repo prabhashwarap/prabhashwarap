@@ -65,22 +65,6 @@ $ git log --oneline --graph
 
 ---
 
-## `~/philosophy`
-
-> *"Good design is invisible. Great design is unforgettable."*
-
-```
-Design ──────────────────────────────────────────── Code
-  │                                                    │
-  ├── User Research          HTML ────────────────────┤
-  ├── Wireframing            CSS / SASS ──────────────┤
-  ├── Prototyping (Figma)    Bootstrap ───────────────┤
-  └── Visual Design ─────────────────────────────────┘
-              ↕
-        [ WHERE I LIVE ]
-```
-
----
 
 ## `~/stats`
 
