@@ -91,11 +91,6 @@ $ git log --oneline --graph
 └─────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
 
 <div align="center">
   <sub>Designed with 🎨 · Coded with ❤️ · By Pasindu Prabhashwara</sub>
