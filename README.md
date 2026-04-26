@@ -30,10 +30,7 @@
 ```yaml
 name: Pasindu Prabhashwara
 role: UI/UX Designer → Front-End Developer
-location: Sri Lanka 🇱🇰
-status: Learning Front-End Development
 passion: Turning ideas into pixel-perfect interfaces
-contact: prabashwara2@gmail.com
 ```
 
 <br/>
@@ -77,19 +74,6 @@ $ git log --oneline --graph
 
 ---
 
-## `~/connect`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│  Let's build something beautiful together   │
-│                                             │
-│  📬  prabashwara2@gmail.com                 │
-│  💼  linkedin.com/in/pasindu-prabhashwara   │
-│  📘  fb.com/pasindu.prabashwara.5           │
-└─────────────────────────────────────────────┘
-```
 
 
 <div align="center">
